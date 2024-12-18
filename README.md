@@ -30,4 +30,4 @@
 
 ## Podziękowania
 
-... i pozdrowienia dla zespołu SimRail za wkład włożony w rozwój symulator oraz możliwości do tworzenia modyfikacji.
+... i pozdrowienia dla zespołu SimRail za wkład włożony w rozwój symulatora oraz możliwości do tworzenia modyfikacji.
