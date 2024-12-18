@@ -24,6 +24,9 @@
 
 - W najbliższym czasie planowana jest korekta rozkładu jazdy.
 
+## Fixy
+- wyłaczono debug mode w pliku lua.
+
 ## Komunikaty radiowe
 
 - Wykorzystano darmowe syntezatory mowy, co może wpłynąć na jakość komunikatów.
