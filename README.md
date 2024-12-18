@@ -5,7 +5,7 @@
 **Uwaga:** Po każdej aktualizacji symulatora należy ponownie wgrać opis misji oraz dialogi:
 
 - **Dialogi:** `..\..\StreamingAssets\Locales\mission\pl.lang`
-- **Opis scenariusza w menu:** `..\..\StreamingAssets\Locales\sceneries\`
+- **Opis scenariusza w menu:** `..\..\StreamingAssets\Locales\sceneries\pl.lang`
 
 ## Scenariusz
 
