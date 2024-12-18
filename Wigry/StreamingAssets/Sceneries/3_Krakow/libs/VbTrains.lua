@@ -11,7 +11,6 @@ EN57 = {
     LocomotiveNames.EN57_1316,
 }
 EN57_KM = {
-    LocomotiveNames.EN57_038,
     LocomotiveNames.EN57_1000,
     LocomotiveNames.EN57_1796,
 }
