@@ -9,7 +9,8 @@
 
 ## Scenariusz
 
-- Bazuje na istniejącym scenariuszu **07_Scenario_EIP_Krk_Wwa**, w którym wprowadzono modyfikacje.
+-  TLK Wigry z Krakowa do Suwałk;
+-  Bazuje na istniejącym scenariuszu **07_Scenario_EIP_Krk_Wwa**, w którym wprowadzono modyfikacje;
 - Dodano dodatkowe postoje na stacjach:
   - Kraków Batowice
   - Miechów
