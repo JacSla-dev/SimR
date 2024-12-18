@@ -1,11 +1,6 @@
 ## Instrukcje
 
-1. Nadpisz zawartość folderu `StreamingAssets` w ścieżce `..\SimRail\SimRail_Data\`.
-
-**Uwaga:** Po każdej aktualizacji symulatora należy ponownie wgrać opis misji oraz dialogi:
-
-- **Dialogi:** `..\..\StreamingAssets\Locales\mission\pl.lang`
-- **Opis scenariusza w menu:** `..\..\StreamingAssets\Locales\sceneries\pl.lang`
+ Nadpisz zawartość folderu `StreamingAssets` w ścieżce `..\SimRail\SimRail_Data\`.
 
 ## Scenariusz
 
@@ -27,6 +22,8 @@
 
 ## Fixy
 - wyłaczono debug mode w pliku lua.
+- poprawiony błędny rozkład w zastowie
+- wszystkie pliki locals znajdują się w folderze ze scenariuszem, przez co nie ma potrzeby aktualizowania po update'cie symulatora.
 
 ## Komunikaty radiowe
 
