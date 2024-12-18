@@ -4,7 +4,7 @@
 --
 require("SimRailCore")
 require("../../libs/EridorCommon")
-require("../../libs/VbTrains")
+require("libs/VbTrains")
 
 DeveloperMode = function()
     return false

@@ -19,7 +19,7 @@
   <MiniThumbnailPath1>minithumbnails/minithumbnail1.png</MiniThumbnailPath1>
   <MiniThumbnailPath2>minithumbnails/minithumbnail2.png</MiniThumbnailPath2>
   <MiniThumbnailPath3>minithumbnails/minithumbnail3.png</MiniThumbnailPath3>
-  <Description>#KrakowScenario_TLK_Krk_Suw</Description>
+  <Description>Pociąg TLK Wigry relacji Kraków Główny - Suwałki.\n\nTrasa: Kraków Główny -> Warszawa Wschodnia(297km)\nPora dnia: Wieczór\nPogoda: Pogodne lato / Deszczowa jesień / Śnieżna zima</Description>
   <MissionFile>mission.lua</MissionFile>
   <TimeTableFile>Timetable.xml</TimeTableFile>
   <CustomTranslations>
