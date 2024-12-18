@@ -7,7 +7,7 @@ require("../../libs/EridorCommon")
 require("../../libs/VbTrains")
 
 DeveloperMode = function()
-    return true
+    return false
 end
 
 StartPosition = {55307.08, 221.42, -17977.95}
