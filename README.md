@@ -18,7 +18,7 @@
   - Włoszczowa Północ
   - Opoczno
   - Grodzisk Mazowiecki
-- Przygotowano nowy plik ze składami AI, pozbawiony najnowszych jednostek (typu ED250, Dragony), aby lepiej odwzorować wcześniejsze lata.
+- Przygotowano nowy plik ze składami AI, pozbawiony nowszych jednostek (takich jak ED250 czy Dragony), aby scenariusz lepiej oddawał realia wcześniejszych lat.
 
 ## Błędy
 
