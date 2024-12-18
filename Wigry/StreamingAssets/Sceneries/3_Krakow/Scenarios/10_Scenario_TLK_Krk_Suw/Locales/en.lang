@@ -1,0 +1,42 @@
+Krk_10_tlk_KrkSuw_Hello=Welcome to the TLK Kraków-Suwałki scenario. Prepare the train set for travel and report readiness for shunts to the dispatcher.
+Krk_10_tlk_KrkSuw_KG1=KGA for 3510.
+Krk_10_tlk_KrkSuw_KG2=KGA listening.
+Krk_10_tlk_KrkSuw_KG3=3510 reporting at shield 211 at the southern plant. TLK Hańcza, driver Sławecki.
+Krk_10_tlk_KrkSuw_KG4=My name is Dębiński, I understand. Listen - for now I'm giving the mileage to shield 315 - we'll let the courier through, withdraw the train set accompanied by shunting officers (camera 6).
+Krk_10_tlk_KrkSuw_KG5=3510, route to platforms on track 12 given.
+Krk_10_tlk_KrkSuw_KG6=I got it, I'm rolling in now.
+Krk_10_tlk_KrkSuw_KG7=3510 to KGB, what's the situation?
+Krk_10_tlk_KrkSuw_KG8=Test done, train ready to go.
+Krk_10_tlk_KrkSuw_KG9=I understand, I'm getting ready to leave.
+Krk_10_tlk_KrkSuw_KG10=Thanks.
+
+Krk_10_tlk_KrkSuw_Tl1=Tunnel to 3510, radio test.
+Krk_10_tlk_KrkSuw_Tl2=Tunnel reports for 3510, radio connection good.
+
+Krk_10_tlk_KrkSuw_Sp1=Sprowa 3511, test after changing channel.
+Krk_10_tlk_KrkSuw_Sp2=3511, can be heard well.
+
+Krk_10_tlk_KrkSuw_Ps1=Psary, 3510 after changing channel as can be heard.
+Krk_10_tlk_KrkSuw_Ps2=3510 - can be heard very well and the flight is given.
+
+Krk_10_tlk_KrkSuw_BR0=3510, report to Biała Rawska.
+Krk_10_tlk_KrkSuw_BR1=3510 on reception.
+Krk_10_tlk_KrkSuw_BR2=We'll fly to Szeligi on the left track.
+Krk_10_tlk_KrkSuw_BR3=On the left to Szeligi, I understand, thanks.
+
+Krk_10_tlk_KrkSuw_Gr1=Good morning Grodzisk, 3510 checking the connection.
+
+Krk_10_tlk_KrkSuw_Gr2=Grodzisk 3510 reporting, good connection.
+
+Krk_10_tlk_KrkSuw_Ready=3510, ready to depart.
+
+Krk_10_tlk_KrkSuw_Roger=I understand.
+
+Kier=Manager
+You=You
+StaticNoise=[zzzzkszkksszszzkkkszzzz]
+
+M_Weather=Select weather
+Summer=Sunny (Summer)
+Autumn=Rainy (Autumn)
+Winter=Snowy (Winter)
