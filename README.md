@@ -19,6 +19,7 @@
   - Opoczno
   - Grodzisk Mazowiecki
 - Przygotowano nowy plik ze składami AI, pozbawiony nowszych jednostek (takich jak ED250 czy Dragony), aby scenariusz lepiej oddawał realia wcześniejszych lat.
+- Po dojechaniu na stację Warszawa Wschodnia podsumowanie scenariusza pojawia się po upływie ok. 5 minut (ja tam lubie sobie pooglądać skład bo długiej drodze, przed podsumowaniem).
 
 ## Błędy
 
