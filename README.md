@@ -1,21 +1,32 @@
-Nadpisać zawartość folderu 'StreamingAssets' w ..\SimRail\SimRail_Data\
+## Instrukcje
 
-Uwaga, opis misji jak i dialogi, po wszelkich aktualizacjach symulatora, do ponownego wklejenia w :
-- dialogi ..\..\StreamingAssets\Locales\mission\pl.lang
-- opis scenariusza w menu ..\..\StreamingAssets\Locales\sceneries\
+1. Nadpisz zawartość folderu `StreamingAssets` w ścieżce `..\SimRail\SimRail_Data\`.
 
-Scenariusz:
-- wykorzystany istniejący scenariusz 07_Scenario_EIP_Krk_Wwa, poddany modyfikacjom
-- dodatkowe postoje na stacjach:
-    - Kraków Batowice
-    - Miechów
-    - Kozłów
-    - Włoszczowa Północ
-    - Opoczno
-    - Grodzisk Mazowiecki
- - Dodatkowo, stworzony plik ze składami AI, który nie zawiera nowoczśniejszych konstrukcji, takich jak ED250, dragony itp., scenariusz odwozrowuje lata wcześniejsze.
+**Uwaga:** Po każdej aktualizacji symulatora należy ponownie wgrać opis misji oraz dialogi:
 
-Błędy:
-- w najbliższym czasie zostanie dokonana korekta rozkładu jazdy.
+- **Dialogi:** `..\..\StreamingAssets\Locales\mission\pl.lang`
+- **Opis scenariusza w menu:** `..\..\StreamingAssets\Locales\sceneries\`
 
-Podziękowania dla zespołu SimRail.
+## Scenariusz
+
+- Bazuje na istniejącym scenariuszu **07_Scenario_EIP_Krk_Wwa**, w którym wprowadzono modyfikacje.
+- Dodano dodatkowe postoje na stacjach:
+  - Kraków Batowice
+  - Miechów
+  - Kozłów
+  - Włoszczowa Północ
+  - Opoczno
+  - Grodzisk Mazowiecki
+- Przygotowano nowy plik ze składami AI, pozbawiony najnowszych jednostek (typu ED250, Dragony), aby lepiej odwzorować wcześniejsze lata.
+
+## Błędy
+
+- W najbliższym czasie planowana jest korekta rozkładu jazdy.
+
+## Komunikaty radiowe
+
+- Wykorzystano darmowe syntezatory mowy, co może wpłynąć na jakość komunikatów.
+
+## Podziękowania
+
+... i pozdrowienia dla zespołu SimRail za wkład włożony w rozwój symulator oraz możliwości do tworzenia modyfikacji.
