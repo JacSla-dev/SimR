@@ -80,8 +80,8 @@
       <TrainType>TLK</TrainType>
       <StationCategory/>
       <StationSpeedLimit>0</StationSpeedLimit>
-      <ArrivalTime>1500</ArrivalTime>
-      <DepartureTime>1500</DepartureTime>
+      <ArrivalTime>1380</ArrivalTime>
+      <DepartureTime>1380</DepartureTime>
       <RadioChanels>
         <int>1</int>
       </RadioChanels>
