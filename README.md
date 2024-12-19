@@ -16,9 +16,10 @@
 - Przygotowano nowy plik ze składami AI, pozbawiony nowszych jednostek (takich jak ED250 czy Dragony), aby scenariusz lepiej oddawał realia wcześniejszych lat.
 - Po dojechaniu na stację Warszawa Wschodnia podsumowanie scenariusza pojawia się po upływie ok. 5 minut (ja tam lubie sobie pooglądać skład bo długiej drodze, przed podsumowaniem).
 
-## Błędy
+## Błędy/Feature
 
 - W najbliższym czasie planowana jest korekta rozkładu jazdy.
+- uwzględnić w nr pociągu przynależność do obszarów konstrukcyjnych
 
 ## Fixy
 - wyłaczono debug mode w pliku lua.
