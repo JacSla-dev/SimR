@@ -24,6 +24,7 @@
 - wyłaczono debug mode w pliku lua.
 - poprawiony błędny rozkład w zastowie
 - wszystkie pliki locals znajdują się w folderze ze scenariuszem, przez co nie ma potrzeby aktualizowania po update'cie symulatora.
+- poprawiono format komunikatów radiowych.
 
 ## Komunikaty radiowe
 
