@@ -2,7 +2,7 @@
 <ScenarioManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Required_Level>1</Required_Level>
   <Train_Type>Passenger</Train_Type>
-  <Scenario_Name>TLK_WIGRY_KRAKOW_SUWAŁKI</Scenario_Name>
+  <Scenario_Name>[TLK] Kraków - Suwałki</Scenario_Name>
   <Train_Engine_Names>
     <string>EP08/EP07/ET22</string>
   </Train_Engine_Names>
