@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeTableStorage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TrainName>KM R1</TrainName>
+	<TrainNumber>19911</TrainNumber>
+	<LineNumber>1</LineNumber>
+	<From>Warszawa Wschodnia</From>
+	<To>Grodzisk Mazowiecki</To>
+	<WayPoints>
+		<WayPointFromXml>
+			<NameOfPoint>Warszawa Wschodnia</NameOfPoint>
+			<DisplayName>Warszawa Wschodnia</DisplayName>
+			<StopType>noStopover</StopType>
+			<RadioChanels>
+				<int>2</int>
+			</RadioChanels>
+			<Line>1</Line>
+			<Mileage>0</Mileage>
+			<TrainType>ROJ</TrainType>
+			<StationCategory />
+			<ArrivalTime>120</ArrivalTime>
+			<DepartureTime>120</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Warszawa Wschodnia</NameOfPoint>
+			<DisplayName>Warszawa Wschodnia</DisplayName>
+			<StopType>noStopover</StopType>
+			<RadioChanels>
+				<int>2</int>
+			</RadioChanels>
+			<Line>1</Line>
+			<Mileage>0</Mileage>
+			<TrainType>ROJ</TrainType>
+			<StationCategory />
+			<ArrivalTime>180</ArrivalTime>
+			<DepartureTime>180</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+      <NameOfPoint>Warszawa Wschodnia</NameOfPoint>
+      <DisplayName>Warszawa Wschodnia</DisplayName>
+      <StopType>commercialStop</StopType>
+      <Line>1</Line>
+      <Mileage>0</Mileage>
+      <TrainType>ROJ</TrainType>
+      <StationCategory />
+      <ArrivalTime>480</ArrivalTime>
+      <DepartureTime>780</DepartureTime>
+    </WayPointFromXml>
+    <WayPointFromXml>
+      <NameOfPoint>Warszawa Centralna</NameOfPoint>
+      <DisplayName>Warszawa Centralna</DisplayName>
+      <StopType>commercialStop</StopType>
+      <Line>1</Line>
+      <Mileage>0</Mileage>
+      <TrainType>ROJ</TrainType>
+      <StationCategory />
+      <ArrivalTime>1110</ArrivalTime>
+      <DepartureTime>1300</DepartureTime>
+    </WayPointFromXml>
+    <WayPointFromXml>
+      <NameOfPoint>Warszawa Zachodnia</NameOfPoint>
+      <DisplayName>Warszawa Zachodnia</DisplayName>
+      <StopType>commercialStop</StopType>
+      <Line>1</Line>
+      <Mileage>0</Mileage>
+      <TrainType>ROJ</TrainType>
+      <StationCategory />
+      <ArrivalTime>1600</ArrivalTime>
+      <DepartureTime>1720</DepartureTime>
+    </WayPointFromXml>
+    <WayPointFromXml>
+      <NameOfPoint>Warszawa Włochy</NameOfPoint>
+      <DisplayName>Warszawa Włochy</DisplayName>
+      <StopType>commercialStop</StopType>
+      <Line>1</Line>
+      <Mileage>0</Mileage>
+      <TrainType>ROJ</TrainType>
+      <StationCategory />
+      <ArrivalTime>2080</ArrivalTime>
+      <DepartureTime>2140</DepartureTime>
+    </WayPointFromXml>
+    <WayPointFromXml>
+      <NameOfPoint>Warszawa Ursus</NameOfPoint>
+      <DisplayName>Warszawa Ursus</DisplayName>
+      <StopType>commercialStop</StopType>
+      <Line>1</Line>
+      <Mileage>0</Mileage>
+      <TrainType>ROJ</TrainType>
+      <StationCategory />
+      <ArrivalTime>2260</ArrivalTime>
+      <DepartureTime>2290</DepartureTime>
+    </WayPointFromXml>
+    <WayPointFromXml>
+      <NameOfPoint>Warszawa Ursus Niedźwiadek</NameOfPoint>
+      <DisplayName>Warszawa Ursus Niedźwiadek</DisplayName>
+      <StopType>commercialStop</StopType>
+      <Line>1</Line>
+      <Mileage>0</Mileage>
+      <TrainType>ROJ</TrainType>
+      <StationCategory />
+      <ArrivalTime>2420</ArrivalTime>
+      <DepartureTime>2450</DepartureTime>
+    </WayPointFromXml>
+    <WayPointFromXml>
+      <NameOfPoint>Piastów</NameOfPoint>
+      <DisplayName>Piastów</DisplayName>
+      <StopType>commercialStop</StopType>
+      <Line>1</Line>
+      <Mileage>0</Mileage>
+      <TrainType>ROJ</TrainType>
+      <StationCategory />
+      <ArrivalTime>2570</ArrivalTime>
+      <DepartureTime>2630</DepartureTime>
+    </WayPointFromXml>
+    <WayPointFromXml>
+      <NameOfPoint>Pruszków</NameOfPoint>
+      <DisplayName>Pruszków</DisplayName>
+      <StopType>commercialStop</StopType>
+      <Line>1</Line>
+      <Mileage>0</Mileage>
+      <TrainType>ROJ</TrainType>
+      <StationCategory />
+      <ArrivalTime>2750</ArrivalTime>
+      <DepartureTime>2810</DepartureTime>
+    </WayPointFromXml>
+    <WayPointFromXml>
+      <NameOfPoint>Parzniew</NameOfPoint>
+      <DisplayName>Parzniew</DisplayName>
+      <StopType>commercialStop</StopType>
+      <Line>1</Line>
+      <Mileage>0</Mileage>
+      <TrainType>ROJ</TrainType>
+      <StationCategory />
+      <ArrivalTime>3000</ArrivalTime>
+      <DepartureTime>3030</DepartureTime>
+    </WayPointFromXml>
+    <WayPointFromXml>
+      <NameOfPoint>Brwinów</NameOfPoint>
+      <DisplayName>Brwinów</DisplayName>
+      <StopType>commercialStop</StopType>
+      <Line>1</Line>
+      <Mileage>0</Mileage>
+      <TrainType>ROJ</TrainType>
+      <StationCategory />
+      <ArrivalTime>3210</ArrivalTime>
+      <DepartureTime>3240</DepartureTime>
+    </WayPointFromXml>
+    <WayPointFromXml>
+      <NameOfPoint>Milanówek</NameOfPoint>
+      <DisplayName>Milanówek</DisplayName>
+      <StopType>commercialStop</StopType>
+      <Line>1</Line>
+      <Mileage>0</Mileage>
+      <TrainType>ROJ</TrainType>
+      <StationCategory />
+      <ArrivalTime>3480</ArrivalTime>
+      <DepartureTime>3510</DepartureTime>
+    </WayPointFromXml>
+    <WayPointFromXml>
+      <NameOfPoint>Grodzisk Mazowiecki</NameOfPoint>
+      <DisplayName>Grodzisk Mazowiecki</DisplayName>
+      <StopType>commercialStop</StopType>
+      <Line>1</Line>
+      <Mileage>0</Mileage>
+      <TrainType>ROJ</TrainType>
+      <StationCategory />
+      <ArrivalTime>3690</ArrivalTime>
+      <DepartureTime>3690</DepartureTime>
+    </WayPointFromXml>
+    <WayPointFromXml>
+      <NameOfPoint>Grodzisk Mazowiecki</NameOfPoint>
+      <DisplayName>Grodzisk Mazowiecki</DisplayName>
+      <StopType>noStopover</StopType>
+      <Line>1</Line>
+      <Mileage>0</Mileage>
+      <TrainType>ROJ</TrainType>
+      <StationCategory />
+      <ArrivalTime>3900</ArrivalTime>
+      <DepartureTime>3900</DepartureTime>
+    </WayPointFromXml>
+	</WayPoints>
+	<StartSpeedLimit>40</StartSpeedLimit>
+	<StartGlobalSpeedLimit>200</StartGlobalSpeedLimit>
+	<StartRadioChannels>
+		<int>2</int>
+	</StartRadioChannels>
+</TimeTableStorage>

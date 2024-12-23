@@ -1,0 +1,43 @@
+Krk_11_tlk_KrkSuw_Hello=Witaj w scenariuszu TLK Wigry z Suwałk do Krakowa głównego. Oczekuj na peronie, na przyjazd pociągu, aby zastąpić drużynę trakcyjną z Białegostoku. Po przyjeździe pociągu wejdź do kabiny i skontaktuje się przez radio z dyżurnym ruchu Warszawa Wschodnia - zgłoś przejęcia składu i gotowość do drogi.
+Krk_11_tlk_WawKrk_tlk_announcement=Pociąg TLK Wigry z Suwałk do Krakowa Głównego przez Warszawę Centralną, Warszawę Zachodnią, Grodzisk Mazowiecki, Opoczno Południe, Włoszczowa Północ, Kozłów, Miechów, Kraków Batowice - wjedzie na tor 4 przy peronie 3. Wagon z miejscami do leżenia znajduje się na końcu składu pociągu. Przesyłki konduktorskie przyjmuje i wydaje kierownik pociągu w wagonie numer 3.
+Krk_11_tlk_WawKrk_Koz1=Kozłów 31172 sprawdzam łączność.
+Krk_11_tlk_WawKrk_Koz2=Dzień dobry, 31172 słychać głośno i wyraźnie.
+Krk_11_tlk_WawKrk_Kr1=Korytów 31172 po zmianie kanału, jak słychać?
+Krk_11_tlk_WawKrk_Kr2=31172 słychać bardzo dobrze.
+Krk_11_tlk_WawKrk_Mi1=Miechów 31172 próba radia.
+Krk_11_tlk_WawKrk_Mi2=Miechów do 31172 słychać bardzo dobrze.
+Krk_11_tlk_WawKrk_Ready=31172 gotów do odjazdu.
+Krk_11_tlk_WawKrk_Roger=Przyjąłem.
+Krk_11_tlk_WawKrk_St0=Strzałki do 31172.
+Krk_11_tlk_WawKrk_St1=Strzałki do 31172 odbiór
+Krk_11_tlk_WawKrk_St2=Strzałki do 31172 jest tam ktoś na tej dyżurce?
+Krk_11_tlk_WawKrk_St3=...taak.
+Krk_11_tlk_WawKrk_St4=Co z tą drogą? Czekamy na coś?
+Krk_11_tlk_WawKrk_St5=...@#$%^&*...
+Krk_11_tlk_WawKrk_St6a=31172 do Strzałek, powtórz bo nie zrozumiałem.
+Krk_11_tlk_WawKrk_Stb=Dyżurny, Ty się źle czujesz czy co jest z Tobą?
+Krk_11_tlk_WawKrk_St7=Nieee, ja się źle nie czuje.
+Krk_11_tlk_WawKrk_St8=Dyżurny a Ty pewny jesteś, że ta droga jest wolna?
+Krk_11_tlk_WawKrk_St9=Tak. Oczywiśśśśśie.
+Krk_11_tlk_WawKrk_St10=31172 do Strzałek zrozumiałem. Jadę!
+Krk_11_tlk_WawKrk_Str1=Starzyny 31172 próba radia.
+Krk_11_tlk_WawKrk_Str1=31172 słychać bardzo dobrze.
+Krk_11_tlk_WawKrk_Wwa0=Warszawa Wschodnia do 31172.
+Krk_11_tlk_WawKrk_Wwa1=Wschodnia na odbiorze.
+Krk_11_tlk_WawKrk_Wwa2=Zgłasza się maszynista Wiesław Wojnar, skład 31172 przejety od drużyny trakcyjnej z Białegostoku. Gotowy do drogi
+Krk_11_tlk_WawKrk_Wwa3=Wschodnia do 31172 zrozumiałem.
+
+
+Kier=Kierownik
+You=Ty
+StaticNoise=[zzzzkszkksszszzkkkszzzz]
+
+M_Weather=Wybierz pogodę
+Summer=Słonecznie (Lato)
+Autumn=Deszczowo (Jesień)
+Winter=Śnieżnie (Zima)
+
+M_ET22=ET22
+M_EU07=EU07
+M_EP07=EP07
+OK=OK

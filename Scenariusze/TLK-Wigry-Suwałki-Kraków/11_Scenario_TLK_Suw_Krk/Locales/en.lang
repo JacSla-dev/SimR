@@ -1,0 +1,38 @@
+Krk_11_tlk_KrkSuw_Hello=Welcome to the TLK Wigry scenario from Suwałki to Kraków Główny. Wait on the platform for the train to arrive to replace the traction crew from Białystok. After the train arrives, enter the cabin and contact the Warszawa Wschodnia traffic controller by radio - report that the train has been taken over and that you are ready to go.
+Krk_11_tlk_WawKrk_tlk_announcement=The TLK Wigry train from Suwałki to Kraków Główny via Warszawa Centralna, Warszawa Zachodnia, Grodzisk Mazowiecki, Opoczno Południe, Włoszczowa Północ, Kozłów, Miechów, Kraków Batowice - will enter track 4 at platform 3. The couchette car is located at the end of the train. Conductor's packages are accepted and issued by the train manager in carriage number 3.
+Krk_11_tlk_WawKrk_Koz1=Kozłów 31172 checking the connection.
+Krk_11_tlk_WawKrk_Koz2=Good morning, 31172 can be heard loud and clear.
+Krk_11_tlk_WawKrk_Kr1=Korytów 31172 after changing the channel, how can you hear it?
+Krk_11_tlk_WawKrk_Kr2=31172 can be heard very well.
+Krk_11_tlk_WawKrk_Mi1=Miechów 31172 radio test.
+Krk_11_tlk_WawKrk_Mi2=Miechów to 31172 can be heard very well.
+Krk_11_tlk_WawKrk_Ready=31172 ready to depart.
+Krk_11_tlk_WawKrk_Roger=I have received.
+Krk_11_tlk_WawKrk_St0=Arrows to 31172.
+Krk_11_tlk_WawKrk_St1=Arrows to 31172 reception
+Krk_11_tlk_WawKrk_St2=Arrows to 31172 is there anyone at this station?
+Krk_11_tlk_WawKrk_St3=...yes.
+Krk_11_tlk_WawKrk_St4=What about this road? Are we waiting for something?
+Krk_11_tlk_WawKrk_St5=...@#$%^&*...
+Krk_11_tlk_WawKrk_St6a=31172 to Strzałek, repeat because I didn't understand.
+Krk_11_tlk_WawKrk_Stb=Officer, are you feeling bad or what's wrong with you?
+Krk_11_tlk_WawKrk_St7=Nooo, I don't feel bad.
+Krk_11_tlk_WawKrk_St8=Officer, are you sure this road is clear?
+Krk_11_tlk_WawKrk_St9=Yes. Of course.
+Krk_11_tlk_WawKrk_St10=31172 to Strzałek I understood. I'm going!
+Krk_11_tlk_WawKrk_Str1=Starzyny 31172 radio test.
+Krk_11_tlk_WawKrk_Str1=31172 can be heard very well.
+Krk_11_tlk_WawKrk_Wwa0=Warszawa Wschodnia to 31172.
+Krk_11_tlk_WawKrk_Wwa1=Wschodnia on reception.
+Krk_11_tlk_WawKrk_Wwa2=Driver Wiesław Wojnar is reporting, train 31172 taken over from the traction team from Białystok. Ready to go.
+
+Krk_11_tlk_WawKrk_Wwa3=Wschodnia to 31172 understood.
+
+Kier=Manager
+You=You
+StaticNoise=[zzzzkszkksszszzkkkszzzz]
+
+M_Weather=Select weather
+Summer=Sunny (Summer)
+Autumn=Rainy (Autumn)
+Winter=Snowy (Winter)

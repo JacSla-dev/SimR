@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScenarioManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Required_Level>1</Required_Level>
+  <Train_Type>Passenger</Train_Type>
+  <Scenario_Name>[TLK] Suwałki - Kraków</Scenario_Name>
+  <Train_Engine_Names>
+    <string>EU07</string>
+    <string>EP07</string>
+    <string>ET22</string>
+  </Train_Engine_Names>
+  <Train_Car_Names />
+  <Scenario_Start_Time>2024-06-11T02:45:00</Scenario_Start_Time>
+  <Scenario_Lenght>205</Scenario_Lenght>
+  <Difficulty>3</Difficulty>
+  <TrackLenghtInMeters>2000</TrackLenghtInMeters>
+  <SeasonOfTheYear>Summer</SeasonOfTheYear>
+  <HeaderText>HeaderText</HeaderText>
+  <SubHeaderText>SubHeaderText</SubHeaderText>
+  <MapFile>Map.png</MapFile>
+  <MainThumbnailPath>route.png</MainThumbnailPath>
+  <MiniThumbnailPath1>minithumbnails/minithumbnail1.png</MiniThumbnailPath1>
+  <MiniThumbnailPath2>minithumbnails/minithumbnail2.png</MiniThumbnailPath2>
+  <MiniThumbnailPath3>minithumbnails/minithumbnail3.png</MiniThumbnailPath3>
+  <Description>ScenarioDescription</Description>
+  <MissionFile>mission.lua</MissionFile>
+  <TimeTableFile>Timetable.xml</TimeTableFile>
+  <CustomTranslations>
+    <CustomTranslation Key="ScenarioDescription">
+      <Translations>
+        <CustomTranslationEntry LanguageTag="en">[TLK] Suwałki - Kraków.\n\nRoute: (Suwałki) Warsaw East -> Kraków Główny (297km)\nTime of day: Night\nWeather: Clear summer / Rainy autumn / Snowy winter</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="pl">[TLK] Suwałki - Kraków.\n\nTrasa: (Suwałki) Warszawa Wschodnia -> Kraków Główny (297km)\nPora dnia: Noc\nPogoda: Pogodne lato / Deszczowa jesień / Śnieżna zima</CustomTranslationEntry>
+      </Translations>
+    </CustomTranslation>
+        <CustomTranslation Key="HeaderText">
+      <Translations>
+        <CustomTranslationEntry LanguageTag="en">[TLK] Suwałki - Kraków</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="pl">[TLK] Suwałki - Kraków</CustomTranslationEntry>
+      </Translations>
+    </CustomTranslation>
+        <CustomTranslation Key="SubHeaderText">
+      <Translations>
+        <CustomTranslationEntry LanguageTag="en">TLK 31172 [RR 1, 4, 64, 8]</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="pl">TLK 31172 [LK 1, 4, 64, 8]</CustomTranslationEntry>
+      </Translations>
+    </CustomTranslation>
+  </CustomTranslations>
+</ScenarioManifest>
+
+
