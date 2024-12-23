@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScenarioManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Required_Level>1</Required_Level>
+  <Train_Type>Passenger</Train_Type>
+  <Scenario_Name>[TLK] Kraków - Suwałki</Scenario_Name>
+  <Train_Engine_Names>
+    <string>EP08/EP07/ET22</string>
+  </Train_Engine_Names>
+  <Train_Car_Names />
+  <Scenario_Start_Time>2024-06-11T19:50:00</Scenario_Start_Time>
+  <Scenario_Lenght>150</Scenario_Lenght>
+  <Difficulty>2</Difficulty>
+  <TrackLenghtInMeters>2000</TrackLenghtInMeters>
+  <SeasonOfTheYear>Summer</SeasonOfTheYear>
+  <HeaderText>HeaderText</HeaderText>
+  <SubHeaderText>SubHeaderText</SubHeaderText>
+  <MapFile>Map.png</MapFile>
+  <MainThumbnailPath>route.png</MainThumbnailPath>
+  <MiniThumbnailPath1>minithumbnails/minithumbnail1.png</MiniThumbnailPath1>
+  <MiniThumbnailPath2>minithumbnails/minithumbnail2.png</MiniThumbnailPath2>
+  <MiniThumbnailPath3>minithumbnails/minithumbnail3.png</MiniThumbnailPath3>
+  <Description>Pociąg TLK Wigry relacji Kraków Główny - Suwałki.\n\nTrasa: Kraków Główny -> Warszawa Wschodnia(297km)\nPora dnia: Wieczór\nPogoda: Pogodne lato / Deszczowa jesień / Śnieżna zima</Description>
+  <MissionFile>mission.lua</MissionFile>
+  <TimeTableFile>Timetable.xml</TimeTableFile>
+  <CustomTranslations>
+    <CustomTranslation Key="SceneryNameText">
+      <Translations>
+        <CustomTranslationEntry LanguageTag="en">[TLK] Kraków - Suwałki</CustomTranslationEntry>
+      </Translations>
+    </CustomTranslation>
+        <CustomTranslation Key="HeaderText">
+      <Translations>
+        <CustomTranslationEntry LanguageTag="en">[TLK] Kraków - Suwałki</CustomTranslationEntry>
+      </Translations>
+    </CustomTranslation>
+        <CustomTranslation Key="SubHeaderText">
+      <Translations>
+        <CustomTranslationEntry LanguageTag="en">TLK 10118 [RR 8, 84, 4, 1]</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="pl">TLK 10118 [LK 8, 84, 4, 1]</CustomTranslationEntry>
+      </Translations>
+    </CustomTranslation>
+  </CustomTranslations>
+</ScenarioManifest>
