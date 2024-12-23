@@ -1,40 +1,13 @@
-## Instrukcje
+# Scenariusze i modyfikacje do SimRail
 
-Folder `10_Scenario_TLK_Krk_Suw` wklej do ścieżki `..\SteamLibrary\steamapps\common\SimRail\SimRail_Data\StreamingAssets\Sceneries\3_Krakow\Scenarios\`.
+Witaj w repozytorium dedykowanym modyfikacjom do symulatora SimRail! Na chwilę obecną znajdziesz tutaj przede wszystkim scenariusze, które pozwolą Ci urozmaicić rozgrywkę. W miarę rozwoju symulatora planuję dodawać tutaj również inne rodzaje modyfikacji na tyle na ile będzie to możliwe.
 
-## Scenariusz
+## Struktura repozytorium
+- **Scenariusze** - W tym folderze znajdują się wszystkie dostępne scenariusze. Na ten moment znajdziesz tu m.in. trasę Kraków-Suwałki, a w przyszłości może pojawić się więcej ciekawych tras i wydarzeń.
 
-- TLK Wigry z Krakowa do Suwałk;
-- Bazuje na istniejącym scenariuszu **07_Scenario_EIP_Krk_Wwa**, w którym wprowadzono modyfikacje;
-- Dodano dodatkowe postoje na stacjach:
-  - Kraków Batowice
-  - Miechów
-  - Kozłów
-  - Włoszczowa Północ
-  - Opoczno
-  - Grodzisk Mazowiecki
-- Przygotowano nowy plik ze składami AI, pozbawiony nowszych jednostek (takich jak ED250 czy Dragony), aby scenariusz lepiej oddawał realia wcześniejszych lat.
-- Po dojechaniu na stację Warszawa Wschodnia podsumowanie scenariusza pojawia się po upływie ok. 5 minut (ja tam lubię sobie pooglądać skład po długiej drodze, przed podsumowaniem).
+**README dla poszczególnych scenariuszy znajduje się w folderze ze scenariuszem.**
 
-## Błędy/Feature
-
-- W najbliższym czasie planowana jest korekta rozkładu jazdy.
-- uwzględnić w nr pociągu przynależność do obszarów konstrukcyjnych.
-
-## Fixy
-
-- Wyłączono debug mode w pliku lua.
-- Poprawiony błędny rozkład w Zastowie.
-- Wszystkie pliki locals znajdują się w folderze ze scenariuszem, przez co nie ma potrzeby aktualizowania po update'cie symulatora.
-- Poprawiono format komunikatów radiowych.
-
-## Komunikaty radiowe
-
-- Wykorzystano darmowe syntezatory mowy, co może wpłynąć na jakość komunikatów.
-
-## Podziękowania
-
-... i pozdrowienia dla zespołu SimRail za wkład włożony w rozwój symulatora oraz możliwości do tworzenia modyfikacji.
+Z czasem repozytorium może zostać rozbudowane o dodatkowe foldery i typy modyfikacji, które będą odpowiadały na potrzeby społeczności i nowe możliwości oferowane przez SimRail.
 
 ## Postaw kawę ☕
 
