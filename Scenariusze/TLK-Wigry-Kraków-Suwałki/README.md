@@ -1,6 +1,6 @@
 ## Instrukcje
 
- Nadpisz zawartość folderu `StreamingAssets` w ścieżce `..\SimRail\SimRail_Data\`.
+ Wklej folder `10_Scenario_TLK_Krk_Suw` do ścieżki `..\SteamLibrary\steamapps\common\SimRail\SimRail_Data\StreamingAssets\Sceneries\3_Krakow\Scenarios\\`.
 
 ## Scenariusz
 
