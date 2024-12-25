@@ -14,81 +14,107 @@ StartPosition = {55307.08, 221.42, -17977.95}
 Sounds = {
     ['StaticNoise'] = {
         [Languages.Polish]  = "../../../Sounds/radio-static.mp3",
+        [Languages.English]  = "../../../Sounds/radio-static.mp3",
     },
     ['Krk_10_tlk_KrkSuw_Hello'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_Hello.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_Hello.mp3",
     },
     ['Krk_10_tlk_KrkSuw_KG1'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_KG1.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_KG1.mp3",
     },
     ['Krk_10_tlk_KrkSuw_KG2'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_KG2.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_KG2.mp3",
     },
     ['Krk_10_tlk_KrkSuw_KG3'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_KG3.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_KG3.mp3",
     },
     ['Krk_10_tlk_KrkSuw_KG4'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_KG4.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_KG4.mp3",
     },
     ['Krk_10_tlk_KrkSuw_KG5'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_KG5.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_KG5.mp3",
     },
     ['Krk_10_tlk_KrkSuw_KG6'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_KG6.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_KG6.mp3",
     },
     ['Krk_10_tlk_KrkSuw_KG7'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_KG7.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_KG7.mp3",
     },
     ['Krk_10_tlk_KrkSuw_KG8'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_KG8.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_KG8.mp3",
     },
     ['Krk_10_tlk_KrkSuw_KG9'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_KG9.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_KG9.mp3",
     },
     ['Krk_10_tlk_KrkSuw_KG10'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_KG10.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_KG10.mp3",
     },
     ['Krk_10_tlk_KrkSuw_Tl1'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_Tl1.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_Tl1.mp3",
     },
     ['Krk_10_tlk_KrkSuw_Tl2'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_Tl2.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_Tl2.mp3",
     },
     ['Krk_10_tlk_KrkSuw_Sp1'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_Sp1.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_Sp1.mp3",
     },
     ['Krk_10_tlk_KrkSuw_Sp2'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_Sp2.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_Sp2.mp3",
     },
     ['Krk_10_tlk_KrkSuw_Ps1'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_Ps1.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_Ps1.mp3",
     },
     ['Krk_10_tlk_KrkSuw_Ps2'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_Ps2.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_Ps2.mp3",
     },
     ['Krk_10_tlk_KrkSuw_BR0'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_BR0.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_BR0.mp3",
     },
     ['Krk_10_tlk_KrkSuw_BR1'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_BR1.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_BR1.mp3",
     },
     ['Krk_10_tlk_KrkSuw_BR2'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_BR2.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_BR2.mp3",
     },
     ['Krk_10_tlk_KrkSuw_BR3'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_BR3.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_BR3.mp3",
     },
     ['Krk_10_tlk_KrkSuw_Gr1'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_Gr1.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_Gr1.mp3",
     },
     ['Krk_10_tlk_KrkSuw_Gr2'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_Gr2.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_Gr2.mp3",
     },
     ['Krk_10_tlk_KrkSuw_Ready'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_Ready.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_Ready.mp3",
     },
     ['Krk_10_tlk_KrkSuw_Roger'] = {
         [Languages.Polish]  = "pl/Krk_10_tlk_KrkSuw_Roger.mp3",
+        [Languages.English]  = "pl/Krk_10_tlk_KrkSuw_Roger.mp3",
     },
 }
 Trains = {}

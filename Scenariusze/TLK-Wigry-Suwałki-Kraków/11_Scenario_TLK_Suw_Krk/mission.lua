@@ -16,90 +16,119 @@ SetCameraView(CameraView.FirstPersonWalkingOutside)
 Sounds = {
     ['StaticNoise'] = {
         [Languages.Polish]  = "../../../Sounds/radio-static.mp3",
+        [Languages.English]  = "../../../Sounds/radio-static.mp3",
     },
     ['Krk_11_tlk_WawKrk_Hello'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_Hello.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_Hello.mp3",
     },
     ['Krk_11_tlk_WawKrk_Ready'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_Ready.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_Ready.mp3",
     },
     ['Krk_11_tlk_WawKrk_Roger'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_Roger.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_Roger.mp3",
     },
     ['Krk_11_tlk_WawKrk_Wwa0'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_Wwa0.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_Wwa0.mp3",
     },
 	['Krk_11_tlk_WawKrk_Wwa1'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_Wwa1.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_Wwa1.mp3",
     },
 	['Krk_11_tlk_WawKrk_Wwa2'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_Wwa2.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_Wwa2.mp3",
     },
 	['Krk_11_tlk_WawKrk_Wwa3'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_Wwa3.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_Wwa3.mp3",
     },
 	['Krk_11_tlk_WawKrk_St0'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_St0.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_St0.mp3",
     },
 	['Krk_11_tlk_WawKrk_St1'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_St1.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_St1.mp3",
     },
 	['Krk_11_tlk_WawKrk_St2'] = {
+        [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_St2.mp3",
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_St2.mp3",
     },
 	['Krk_11_tlk_WawKrk_St3'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_St3.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_St3.mp3",
     },
 	['Krk_11_tlk_WawKrk_St4'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_St4.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_St4.mp3",
     },
 	['Krk_11_tlk_WawKrk_St5'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_St5.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_St5.mp3",
     },
 	['Krk_11_tlk_WawKrk_St6a'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_St6a.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_St6a.mp3",
     },
 	['Krk_11_tlk_WawKrk_St6b'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_St6b.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_St6b.mp3",
     },
 	['Krk_11_tlk_WawKrk_St7'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_St7.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_St7.mp3",
     },
 	['Krk_11_tlk_WawKrk_St8'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_St8.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_St8.mp3",
     },
 	['Krk_11_tlk_WawKrk_St9'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_St9.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_St9.mp3",
     },
 	['Krk_11_tlk_WawKrk_St10'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_St10.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_St10.mp3",
     },
 	['Krk_11_tlk_WawKrk_Koz1'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_Koz1.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_Koz1.mp3",
     },
 	['Krk_11_tlk_WawKrk_Koz2'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_Koz2.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_Koz2.mp3",
     },
 	['Krk_11_tlk_WawKrk_Mi1'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_Mi1.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_Mi1.mp3",
     },
 	['Krk_11_tlk_WawKrk_Mi2'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_Mi2.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_Mi2.mp3",
     },
 	['Krk_11_tlk_WawKrk_Str1'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_Str1.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_Str1.mp3",
     },
 	['Krk_11_tlk_WawKrk_Str2'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_Str2.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_Str2.mp3",
     },
 	['Krk_11_tlk_WawKrk_Kr1'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_Kr1.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_Kr1.mp3",
     },
 	['Krk_11_tlk_WawKrk_Kr2'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_Kr2.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_Kr2.mp3",
     },
 	['Krk_11_tlk_WawKrk_tlk_announcement'] = {
         [Languages.Polish]  = "pl/Krk_11_tlk_WawKrk_announcement.mp3",
+        [Languages.English]  = "pl/Krk_11_tlk_WawKrk_announcement.mp3",
     },
 }
 Trains = {}
